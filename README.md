@@ -1,7 +1,7 @@
 <h3>- 👋 Hi, I’m @RlxPudding<br>
 <br>
 - 👀 I’m interested in ...<br>
-HTML, CSS, JAVA, DART, FLUTTER, PYTHON<br>
+//HTML, CSS, JAVA, DART, FLUTTER, PYTHON//<br>
 <br>
 - 🌱 I’m currently learning ...<br>
 learning = [JAVA, DART, FLUTTER, PYTHON]<br>
